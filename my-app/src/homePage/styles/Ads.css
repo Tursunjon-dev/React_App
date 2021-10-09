@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.Ads{
+    background: url("../sale_bg.jpg") no-repeat;
+    background-size: cover;
+    height: 15rem;
+    display: flex;
+}
+.buttonAr{
+    display: flex;
+    margin-top: 20px;
+    padding: 90px;
+    padding-left: 25rem;
+}
+.exploreBT{
+    border: 1px solid #ffffffff;
+    padding: 14px 75px;
+    border-radius: 5px;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    color: #E3E1E0;
+    text-decoration: none;
+    height: 53px;
+    transition: 0.5s linear;
+}
+.exploreBT:hover{
+    background-color: #707070;
+    color: #ffffff;
+}

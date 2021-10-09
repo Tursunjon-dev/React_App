@@ -1,0 +1,42 @@
+[
+    {
+        "img": "img4.jpg",
+        "name": "Nike Air Force 1",
+        "price": "$58"
+    },
+    {
+        "img": "img3.jpg",
+        "name": "Nike SB Zoom",
+        "price": "$58"
+    },
+    {
+        "img": "img2.jpg",
+        "name": "Nike Count Air",
+        "price": "$58"
+    },
+    {
+        "img": "img1.jpg",
+        "name": "Nike Signal",
+        "price": "$58"
+    },
+    {
+        "img": "img4.jpg",
+        "name": "Nike Air Force 1",
+        "price": "$58"
+    },
+    {
+        "img": "img3.jpg",
+        "name": "Nike SB Zoom",
+        "price": "$58"
+    },
+    {
+        "img": "img2.jpg",
+        "name": "Nike Count Air",
+        "price": "$58"
+    },
+    {
+        "img": "img1.jpg",
+        "name": "Nike Signal",
+        "price": "$58"
+    }
+]
